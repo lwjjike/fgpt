@@ -391,10 +391,10 @@ const Home = ({
           </div>
           
           <script>var jyc_end=new Date().getTime();</script>
-          <script src="//stat.adjyc.com/count/?uid=4148&logo=0" charset="utf-8"></script>
+          <script src="//stat.adjyc.com/count/?uid=4148&logo=0" charSet="utf-8"></script>
           <noscript>
             <a href="//stat.adjyc.com/" target="_blank">
-              <img border="0" width="1" height="1" src="//stat.adjyc.com/count/stat_jyc.asp?uid=4148&vjs=0" title="JYC统计,助您决策!" />
+              <img width="1" height="1" src="//stat.adjyc.com/count/stat_jyc.asp?uid=4148&vjs=0" title="JYC统计,助您决策!" />
             </a>
           </noscript>
         </main>
