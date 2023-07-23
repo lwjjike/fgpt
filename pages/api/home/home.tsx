@@ -367,7 +367,6 @@ const Home = ({
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
         />
         <link rel="icon" href="/favicon.ico" />
-        <script>var jyc_begin=new Date().getTime();</script>
       </Head>
       {selectedConversation && (
         <main
@@ -389,14 +388,6 @@ const Home = ({
 
             <Promptbar />
           </div>
-          
-          <script>var jyc_end=new Date().getTime();</script>
-          <script src="//stat.adjyc.com/count/?uid=4148&logo=0" charSet="utf-8"></script>
-          <noscript>
-            <a href="//stat.adjyc.com/" target="_blank">
-              <img width="1" height="1" src="//stat.adjyc.com/count/stat_jyc.asp?uid=4148&vjs=0" title="JYC统计,助您决策!" />
-            </a>
-          </noscript>
         </main>
       )}
     </HomeContext.Provider>
